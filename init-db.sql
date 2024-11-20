@@ -1,0 +1,15 @@
+CREATE DATABASE users;
+CREATE DATABASE inventory;
+CREATE DATABASE history;
+
+\c users;
+
+SET CLIENT_ENCODING TO 'UTF8';
+
+\c inventory;
+
+SET CLIENT_ENCODING TO 'UTF8';
+
+\c history;
+
+SET CLIENT_ENCODING TO 'UTF8';

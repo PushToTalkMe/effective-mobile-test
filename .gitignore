@@ -1,0 +1,14 @@
+# node_modules
+/task-1/inventory-service/node_modules
+/task-1/history-service/node_modules
+/task-2/node_modules
+
+# dist
+/task-1/inventory-service/dist
+/task-1/history-service/dist
+/task-2/dist
+
+#env
+/task-1/inventory-service/.env
+/task-1/history-service/.env
+/task-2/.env
